@@ -1,0 +1,37 @@
+
+Bulk Upload (Assignments / MPT / Retest for Mumbai)
+
+http://iupload:8080/iupload
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________
+
+
+URL for the Open Test (DQuiz):
+https://qmp.igate.com/perception5/open.php 
+User id – EMP Code of the participant (there is no password)
+
+
+
+URL for iconnect
+https://usc.ig.capgemini.com
